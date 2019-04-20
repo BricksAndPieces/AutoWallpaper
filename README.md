@@ -2,11 +2,9 @@
 A wallpaper cycler that cycles images based on a topic that you provide. Only works on Apple devices
 
 **Usage**
--Download the jar file for this project (you must have java installed)
+- Download the jar file for this project (you must have java installed)
 
 - Run the jar using the command line
-
- `java -jar path/to/jar/AutoWallpaper.jar -topic TOPIC HERE -time TIME INTERVAL - unit TIME UNIT`
  
 - Enjoy!
 
@@ -16,3 +14,7 @@ A wallpaper cycler that cycles images based on a topic that you provide. Only wo
 - Make sure you are providing all arguments
 
 - If it still isn't working, blame Apple, applescript is horrible to work with ._.
+
+**Command**
+
+`java -jar path/to/jar/AutoWallpaper.jar -topic TOPIC HERE -time TIME INTERVAL - unit TIME UNIT`
