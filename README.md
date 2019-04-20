@@ -5,6 +5,7 @@ A wallpaper cycler that cycles images based on a topic that you provide. Only wo
 -Download the jar file for this project (you must have java installed)
 
 - Run the jar using the command line
+
  `java -jar path/to/jar/AutoWallpaper.jar -topic TOPIC HERE -time TIME INTERVAL - unit TIME UNIT`
  
 - Enjoy!
